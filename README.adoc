@@ -16,8 +16,7 @@ Part of the http://datatags.org[DataTags] project, this library contains
 tools for the DataTags Decision Graph language, used to create
 questionnaires and tag spaces. Here you can find:
 
-http://datatagginglibrary.readthedocs.io/[image:http://readthedocs.org/projects/datatagginglibrary/badge/?version=latest[Documentation Status]]
-https://travis-ci.org/IQSS/DataTaggingLibrary[image:https://travis-ci.org/IQSS/DataTaggingLibrary.svg?branch=develop[Build Status]]
+https://mbarsinai.com/datatags/index.html[image:https://img.shields.io/badge/Documentation-Ready-green[]]
 
 * link:src/edu/harvard/iq/datatags/parser[Language Parsers]
 * link:src/edu/harvard/iq/datatags/runtime/RuntimeEngine.java[Embeddable runtime engine]
